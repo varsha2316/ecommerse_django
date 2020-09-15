@@ -90,7 +90,378 @@
          "category":1,
          "rating":4.4,
          "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-         "image":"DP0226201317034754M.jpg"
+         "image":"tablet2.jpg"
+      }
+   },
+   {
+      "pk":8,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002440521",
+         "name":"Samsung Galaxy Tab A",
+         "description":"(2019) - Tablet - Android 9.0 (Pie) - 32 GB - 8 TFT (1280 x 800) - microSD slot - black carbon ",
+         "price":200,
+         "category":2,
+         "rating":4.4,
+        "image":"tablet2.jpg"
+      }
+   },
+      {
+      "pk":9,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002690715",
+         "name":"Apple iPhone 11 Pro",
+         "description":"All‐new dual‐camera system. Take your photos from wide to ultra wide",
+         "price":1200,
+         "category":2,
+         "rating":4.7,
+         "image":"mobile1.jpg"
+      }
+   },
+   {
+      "pk":10,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002701115",
+         "name":"iPhone 11",
+         "description":"Colour:Black Storage:256 GB",
+         "price":33.99,
+         "category":2,
+         "rating":4.4,
+         "image":"mobile2.jpg"
+      }
+   },
+   {
+      "pk":11,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002761055",
+         "name":"Samsung Galaxy S20 5G",
+         "description":"Stylish black-trim professional",
+         "price":1100,
+         "category":2,
+         "rating":3.0,
+        
+         "image":"mobile3.jpg"
+      }
+   },
+   {
+      "pk":12,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002820069",
+         "name":"Samsung Galaxy S20+",
+         "description":"Samsung Galaxy S20+ (Plus) 5G 128GB - Cloud Blue - Unlocked",
+         "price":1300,
+         "category":2,
+         "rating":4.6,
+         
+         "image":"mobile4.jpg"
+      }
+   },
+   {
+      "pk":13,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002820147",
+         "name":"Samsung Galaxy A50",
+         "description":"Samsung Galaxy A50 6.4-inch Unlocked Smart Phone, 64 GB (Android Pie), White",
+         "price":500,
+         "category":2,
+         "rating":3.2,
+        
+         "image":"mobile5.jpg"
+      }
+   },
+   {
+      "pk":14,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002910572",
+         "name":"Samsung 43",
+         "description":"Samsung 43 1080p HD LED Tizen Smart TV (UN43N5300AFXZC) - Glossy Black",
+         "price":380,
+         "category":3,
+         "rating":4.7,
+         "image":"tv1.jpg"
+      }
+   },
+   {
+      "pk":15,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002990740",
+         "name":"Samsung 50",
+         "description":"Samsung 50 NU6900 4K UHD HDR PurColour Smart LED TV with Smart Hub (UN50NU6900)",
+         "price":1200,
+         "category":3,
+         "rating":4.8,
+         
+         "image":"tv2.jpg"
+      }
+   },
+   {
+      "pk":16,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003050248",
+         "name":"Sharp 55",
+         "description":"Sharp 55 4K UHD Smart LED TV with Voice Assistant Compatibility (LC55N7004U) ",
+         "price":450,
+         "category":3,
+         "rating":4.4,
+         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+         "image":"tv3.jpg"
+      }
+   },
+   {
+      "pk":17,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003070787",
+         "name":"Sharp 43",
+         "description":"1080P Smart LED TV with Roku (LC43R4004U)",
+         "price":345,
+         "category":3,
+         "rating":4.4,
+         "image":"tv4.jpg"
+      }
+   },
+   {
+      "pk":18,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003090182",
+         "name":"Hitachi 40",
+         "description":"Full HD 1080p Smart LED TV with Built-in Wi-Fi (C40L3)",
+         "price":456,
+         "category":3,
+         "rating":4.8,
+        
+         "image":"tv5.jpg"
+      }
+   },
+   {
+      "pk":19,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003090186",
+         "name":"Mary Paxton 3 Pack African Sculpture,7.5",
+         "description":"Women Figure Girls Tribal Lady Figurine Statue Decor Collectible Art Piece Human Decorative Home Black Figurines Creative Vintage Gift Crafts Dolls Ornaments",
+         "price":60.99,
+         "category":4,
+         "rating":5.0,
+        
+         "image":"home1.jpg"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003161326",
+         "name":"Stoneford 39.5 Console Table",
+         "description":"A traditional silhouette gets a contemporary update in this simply-chic console table. Crafted of manufactured wood in a classic painted finish",
+         "price":160,
+         "category":4,
+         "rating":4.7,
+        
+         "image":"home2.jpeg"
+      }
+   },
+   {
+      "pk":21,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003230723",
+         "name":"Omie Abstract Turquoise Area Rug",
+         "description":"Our 6490 selection of elegant, exquisite, beautifully modern rugs to add the perfect finishing touch to your living room, dining room, bedroom or any other area in your home ",
+         "price":60.99,
+         "category":4,
+         "rating":4.3,
+        
+         "image":"home3.jpg"
+      }
+   },
+   {
+      "pk":22,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003270936",
+         "name":"IMAX Worldwide Brown/Silver Ames Deer Rack Statue",
+         "description":"The Ames deer rack brings a warm and vacation like feel to any home with its woodsy and natural look.",
+         "price":260,
+         "category":4,
+         "rating":5.0,
+         "image":"home4.jpg"
+      }
+   },
+   {
+      "pk":23,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003360384",
+         "name":"Design Toscano Peacock's Sanctuary Home Decor Statue, 43 cm, Polyresin, Full Color",
+         "description":"PEACOCK'S SANCTUARY was inspired by the elegant line and explosive color of a peacock that took sanctuary atop the perfect perch.",
+         "price":129,
+         "category":4,
+         "rating":4.8,
+        
+         "image":"home5.jpg"
+      }
+   },
+   {
+      "pk":24,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003440111",
+         "name":"Ascenta® Ascenta- Stainless Steel She3ar75uc",
+         "description":"Bosch dishwashers incorporate 18 unique sound-reducing technologies, to make Bosch the quietest dishwasher brand in North America ",
+         "price":543,
+         "category":5,
+         "rating":3.8,
+        
+         "image":"dish1.jpg"
+      }
+   },
+   {
+      "pk":25,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003540313",
+         "name":"LG LFD22716ST",
+         "description":"LG LFD22716ST French Door Refrigerator, 30 inch Width, ENERGY STAR Certified, 22.0 cu. ft. Capacity, Exterior Water Dispenser, Freezer Located Ice Dispenser, LED Lighting, Fingerprint Resistant, Stainless Steel colour",
+         "price":1234,
+         "category":5,
+         "rating":3.0,
+         
+         "image":"fridge1.jpg"
+      }
+   },
+   {
+      "pk":26,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003560513",
+         "name":"Samsung French Door Refrigerator -RF26HFENDSR",
+         "description":"Our new design provides ideal storage for party platter, deli items, beverages and more. The large crispers keeps fruits and veggies fresher and longer",
+         "price":3213,
+         "category":5,
+         "rating":4.4,
+        
+         "image":"fridge2.jpg"
+      }
+   },
+   {
+      "pk":27,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003560948",
+         "name":"WHIRLPOOL WRS312SNHM",
+         "description":"33-inch Wide Side-by-Side Refrigerator - 22 cu. ft.",
+         "price":1000,
+         "category":5,
+         "rating":5.0,
+        
+         "image":"fridge3.jpg"
+      }
+   },
+   {
+      "pk":28,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003570628",
+         "name":"Donatello 67 Dining Table - Two Tone",
+         "description":"This contemporary dining table commands attention with its stylish, modern design. The table showcases a tempered glass tabletop, supported by eye-catching curved double pedestals in popular contrasting colours.",
+         "price":280,
+         "category":5,
+         "rating":4.3,
+        
+         "image":"din1.jpg"
+      }
+   },
+   {
+      "pk":29,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003620308",
+         "name":"Chloe Bed",
+         "description":"Enveloped in comfort, Chloe has an upholstered bed frame and headrest inspired by modern Italian design. Made with premium upholstery, the detailed headrest with gentle tufting is as much a piece of art as it is functional",
+         "price":2315,
+         "category":6,
+         "rating":4.6,
+         
+         "image":"bed1.jpg"
+      }
+   },
+   {
+      "pk":30,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003690115",
+         "name":"Sophie Queen Bed - Weathered Grey",
+         "description":"The tufted, polyester upholstered headboard adds an element of comfort and dimension",
+         "price":72.99,
+         "category":6,
+         "rating":5.0,
+        
+         "image":"bed2.jpg"
+      }
+   },
+   {
+      "pk":31,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003690116",
+         "name":"Ophelia Bed",
+         "description":"Everything from the smooth upholstery, plush cushioning, and rounded edges exudes elegance in this modern contemporary bed frame.",
+         "price":1234,
+         "category":6,
+         "rating":4.0,
+         
+         "image":"bed3.jpg"
+      }
+   },
+   {
+      "pk":32,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003780391",
+         "name":"Gramado Armoire - Weathered Oak",
+         "description":"Rustic style adds richness and warmth to existing décor.",
+         "price":399,
+         "category":6,
+         "rating":4.8,
+        
+         "image":"bed4.jpg"
+      }
+   },
+   {
+      "pk":33,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003790542",
+         "name":"Whirlpool WVU37UC4FS",
+         "description":"Whirlpool WVU37UC4FS Range Hood, Under-Cabinet, Under-Cabinet, 24 inch Exterior Width, 250 CFM, Accepts Both, LED, Dishwasher Safe Filters, Stainless Steel colour Blower Included",
+         "price":546,
+         "category":7,
+         "rating":4.5,
+         "image":"kitchen1.jpg"
+      }
+   },
+   {
+      "pk":34,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5003831225",
+         "name":"Sharp 32",
+         "description":"This Sharp TV is packed with HD technology combined with legendary Aquos display. It’s perfect for movies,",
+         "price":546,
+         "category":8,
+         "rating":4.5,
+         "image":"tv5.jpg"
       }
    }
+   
 ]

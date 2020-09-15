@@ -1,0 +1,96 @@
+[
+   {
+      "pk":1,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001340155",
+         "name":"Mac book pro",
+         "description":"Apple MacBook Pro 15.4” 256GB with Touch Bar - Space Grey - English",
+         "price":2333,
+         "category":1,
+         "rating":4.6,
+         "image":"laptop_image1.jpg"
+      }
+   },
+   {
+      "pk":2,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001600425",
+         "name":"Apple MacBook Air 13.3",
+         "description":"256GB, 1.1GHz with Intel® i3 10th Generation Processor - Silver - English",
+         "price":1222,
+         "category":1,
+         "rating":4.6,
+        "image":"laptop_image2.jpg"
+      }
+   },
+   {
+      "pk":3,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001730010",
+         "name":"New Dell G3 15 Gaming Laptop",
+         "description":"10th Generation Intel® Core™ i5-10300H (8MB Cache, up to 4.5 GHz, 4 cores",
+         "price":899,
+         "category":1,
+         "rating":4.7,
+        "image":"dell1.jpg"
+      }
+   },
+   {
+      "pk":4,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5001890157",
+         "name":"Dell Latitude E7270",
+         "description":"Core i7-6600U-2.6GHz 8GB 512GB SSD 12.5 NT Win10P (Refurbished",
+         "price":600,
+         "category":1,
+         "rating":3.0,
+         
+         "image":"dell2.jpg"
+      }
+   },
+   {
+      "pk":5,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002111605",
+         "name":"Dell 14 Laptop",
+         "description":"Black (Intel Core i5-1035G1/512GB SSD/8GB RAM/Windows 10)",
+         "price":789,
+         "category":1,
+         "rating":5.0,
+         "image":"dell3.jpg"
+      }
+   },
+   {
+      "pk":6,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002260206",
+         "name":"Surface Pro X - Black, 8GB, 256GB",
+         "description":"Ultra-thin and always connected",
+         "price":1200,
+         "category":1,
+         "rating":4.7,
+         
+         "image":"tablet1.jpg"
+      }
+   },
+   {
+      "pk":7,
+      "model":"products.product",
+      "fields":{
+         "sku":"pp5002440521",
+         "name":"Samsung Galaxy Tab A",
+         "description":"(2019) - Tablet - Android 9.0 (Pie) - 32 GB - 8 TFT (1280 x 800) - microSD slot - black carbon ",
+         "price":200,
+         "category":1,
+         "rating":4.4,
+         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+         "image":"DP0226201317034754M.jpg"
+      }
+   }
+]

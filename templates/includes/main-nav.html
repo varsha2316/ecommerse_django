@@ -17,9 +17,9 @@
                Electronics
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Laptop &amp; Tablets</a>
-                <a href="" class="dropdown-item">Mobiles</a>
-                <a href="" class="dropdown-item">Televisions</a>
+                <a href="{% url 'products' %}?category=laptop" class="dropdown-item">Laptop &amp; Tablets</a>
+                <a href="{% url 'products' %}?category=mobiles" class="dropdown-item">Mobiles</a>
+                <a href="{% url 'products' %}?category=television" class="dropdown-item">Televisions</a>
             </div>
         </li>
 
@@ -28,9 +28,9 @@
                 Homeware
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Home Decor</a>
-                <a href="" class="dropdown-item">Kitchen &amp; Dining</a>
-                <a href="" class="dropdown-item">Room Decor</a>
+                <a href="{% url 'products' %}?category=homedecor" class="dropdown-item">Home Decor</a>
+                <a href="{% url 'products' %}?category=kitchen" class="dropdown-item">Kitchen &amp; Dining</a>
+                <a href="{% url 'products' %}?category=roomdecor" class="dropdown-item">Room Decor</a>
             </div>
         </li>
 
@@ -39,8 +39,8 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=new_arrivals" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
                 
             </div>
         </li>

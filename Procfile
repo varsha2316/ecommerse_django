@@ -1,1 +1,1 @@
-web: gunicorn ecommerse_django.wsgi.application
+web: gunicorn ecommerse_django.wsgi:application

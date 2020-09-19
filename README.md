@@ -49,6 +49,8 @@ User stories:
 18. As a User, I should be able to remove products
 19. As a User, I should be able to add more than 1 product to shopping bag
 20. As a User, I should be able to remove product to shopping bag
+21. As a super user be able to manage (edit) products from website
+22. As a super user be able to remove products from website
 
 
 ## Features Left to Implement
@@ -104,30 +106,20 @@ Testing has been performed to verify and validate the software as per the requir
 17. Test to check, super user be able to manage (edit) products from website
 18. Test to check, super user be able to remove products from website
 19. Test to check, super user be able  add more than 1 product to website
-20. Test to check, super user be able to manage (edit) products from website
-21. Test to check, super user be able to remove products from website
-22. Test to check, super user be able  add more than 1 product to website
-23. Test to check, user able to add product to shopping bag
-24. Test to check, user able to remove product to shopping bag
+20. Test to check, user able to add product to shopping bag
+21. Test to check, user able to remove product to shopping bag
 
 
 
 ## How your project looks and works on different browsers and screen sizes
 The website is designed with bootstrap and is tested for responsiveness on Desktop / Laptop /Tablet /Mobile View.
 
-## Please check the attached Wireframes PDF on different devises from the UX requirements section
-
-()
 
 It has been tested for iphone6/7/8 , also in iPad.
 Any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 
-
-
 Deployment to heroku
-
-
 
 
 

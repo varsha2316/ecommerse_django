@@ -45,6 +45,10 @@ User stories:
 14.	As a User, I should be able to register to the website
 15.	As a User, I should be able to login to the website
 16.	As a User, I should be able to create my profile
+17. As a User, I should be able to manage (edit) products
+18. As a User, I should be able to remove products
+19. As a User, I should be able to add more than 1 product to shopping bag
+20. As a User, I should be able to remove product to shopping bag
 
 
 ## Features Left to Implement
@@ -96,6 +100,16 @@ Testing has been performed to verify and validate the software as per the requir
 14.	Test to check if user Able to register to the website
 15.	Test to check if user Able to login to the website
 16.	Test to check if user Able to create my profile
+16.	Test to check, user be able to create my profile
+17. Test to check, super user be able to manage (edit) products from website
+18. Test to check, super user be able to remove products from website
+19. Test to check, super user be able  add more than 1 product to website
+20. Test to check, super user be able to manage (edit) products from website
+21. Test to check, super user be able to remove products from website
+22. Test to check, super user be able  add more than 1 product to website
+23. Test to check, user able to add product to shopping bag
+24. Test to check, user able to remove product to shopping bag
+
 
 
 ## How your project looks and works on different browsers and screen sizes
